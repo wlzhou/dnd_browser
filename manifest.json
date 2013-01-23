@@ -1,0 +1,14 @@
+{
+  // Required
+  "name": "DND-Lookup",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  // Recommended
+  "description": "A plain text description",
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_title": "DND-Lookup", 
+    "default_popup": "popup.html"       
+  }
+}
